@@ -18,3 +18,8 @@ to assess profitability and financial health.
 
 ## How to Run
 Open the notebook in Google Colab and run all cells.
+
+## Key Outputs
+- Financial Health Score (0–100)
+- Risk Classification (Low / Medium / High)
+- AI-based insights and recommendations
